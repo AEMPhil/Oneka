@@ -1,0 +1,16 @@
+#Visual Studio files
+*.dll
+*.exe
+*.exp
+*.ilk
+*.lib
+*.ncb
+*.log
+*.idb
+*.pdb
+*.suo
+*.vcproj.*.user
+[Bb]in
+*.[Cc]ache
+[Dd]ebug/
+[Rr]elease/
